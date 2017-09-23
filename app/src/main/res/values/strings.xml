@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- About screen blog label -->
+    <string name="About.blog">Blog</string>
+    <!-- About screen footer -->
+    <string name="About.footer">Made in North America. Version</string>
+    <!-- Privay Policy button label -->
+    <string name="About.privacy">Privacy Policy</string>
+    <!-- About screen reddit label -->
+    <string name="About.reddit">Reddit</string>
+    <!-- Terms of Use button label -->
+    <string name="About.terms">Terms of Use</string>
+    <!-- About screen title -->
+    <string name="About.title">About</string>
+    <!-- About screen twitter label -->
+    <string name="About.twitter">Twitter</string>
+    <!-- Close modal button accessibility label -->
+    <string name="AccessibilityLabels.close">Close</string>
+    <!-- Support center accessibiliy label -->
+    <string name="AccessibilityLabels.faq">Support Center</string>
+    <!-- Loading Wallet Message -->
+    <string name="Account.loadingMessage">Loading Wallet</string>
+    <!-- Default wallet name -->
+    <string name="AccountHeader.defaultWalletName">My Loaf</string>
+    <!-- Use Pin -->
+    <string name="Fingerprint.usePin_Android">PIN</string>
+    <!-- Device authentication required -->
+    <string name="DeviceAuth.authRequired_Android">Authentication required</string>
+    <!-- Device authentication message -->
+    <string name="DeviceAuth.authMessage_Android">Please unlock your device to continue.</string>
+    <!-- Fingerprint not recognized -->
+    <string name="Fingerprint.notRecognized_Android">Fingerprint not recognized. Try again</string>
+    <!-- Fingerprint ecognized -->
+    <string name="Fingerprint.recognized_Android">Fingerprint recognized</string>
+    <!-- Search Hint -->
+    <string name="AccountHeader.searchHint_Android">Search Transactions</string>
+    <!-- Paper Key error-->
+    <string name="RecoveryPhrase.paperKeyError_Android">Paper Key error, please contact support at loafwallet.com</string>
+    <!-- Transaction rejected dialog -->
+    <string name="BRWalletManager.transactionRejected_Android">Transaction rejected</string>
+    <!-- Wallet out of sync dialog -->
+    <string name="BRWalletManager.walletOutOfSync_Android">Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain.</string>
+    <!-- DO NOT TRANSLATE-->
+    <string name="lang_Android">en</string>
+    <!-- Fingerprint Hint -->
+    <string name="Fingerprint.hint_Android">Touch Sensor</string>
+    <!-- Private key balance checking toast -->
+    <string name="BRWalletManager.checkingPrivKeyBalance_Android">Checking private key balance…</string>
+    <!-- Device Encryption needed text -->
+    <string name="IntroScreen.encryption.needed_Android">A device screen lock is needed to safeguard your wallet. Go to \"Settings\" > \"Security\" > \"Screen lock\" and enable to continue.</string>
+    <!-- Allow camera access info -->
+    <string name="CameraPlugin.allowCameraAccess_Android">Allow camera access in \"Settings\" > \"Apps\" > \"loafwallet\" > \"Permissions\"</string>
+    <!-- Fingerprint Hint -->
+    <string name="ImportKey.passwordProtectedKey_Android">Password Protected Key</string>
+    <!-- Equals symbol -->
+    <string name="AccountHeader.equals">=</string>
+    <!-- Manage wallet button title -->
+    <string name="AccountHeader.manageButtonName">MANAGE</string>
+    <!-- Alert Header Label -->
+    <string name="Alerts.paperKeySet">Paper Key Set</string>
+    <!-- Alert Subheader label -->
+    <string name="Alerts.paperKeySetSubheader">Awesome!</string>
+    <!-- Alert Header label -->
+    <string name="Alerts.pinSet">PIN Set</string>
+    <!-- Alert Subheader label -->
+    <string name="Alerts.pinSetSubheader">Use your PIN to login and send money.</string>
+    <!-- Send failure alert header label -->
+    <string name="Alerts.sendFailure">Send failed</string>
+    <!-- Send failure alert subheader label -->
+    <string name="Alerts.sendFailureSubheader">Send Failed</string>
+    <!-- Send success alert header label -->
+    <string name="Alerts.sendSuccess">Send Confirmation</string>
+    <!-- Send success alert subheader label -->
+    <string name="Alerts.sendSuccessSubheader">Money Sent!</string>
+    <!-- Cancel button label -->
+    <string name="Button.cancel">Cancel</string>
+    <!-- OK button label -->
+    <string name="Button.ok">OK</string>
+    <!-- Settings button label -->
+    <string name="Button.settings">Settings</string>
+    <!-- Settings button label -->
+    <string name="Button.submit">Submit</string>
+    <!-- Confirm paper phrase view label. -->
+    <string name="ConfirmPaperPhrase.label">Prove you wrote down your paper key by answering the following questions.</string>
+    <!-- Word label eg. Word 1, Word 2 -->
+    <string name="ConfirmPaperPhrase.word">Word</string>
+    <!-- Exchange rate label -->
+    <string name="DefaultCurrency.rateLabel">Exchange Rate</string>
+    <!-- Default currency view title -->
+    <string name="DefaultCurrency.title">Default Currency</string>
+    <!-- Email unavailable alert title -->
+    <string name="ErrorMessages.emailUnavailableMessage">This device isn\'t configured to send email with the iOS mail app.</string>
+    <!-- Email unavailable alert title -->
+    <string name="ErrorMessages.emailUnavailableTitle">Email unavailable</string>
+    <!-- Messaging unavailable alert title -->
+    <string name="ErrorMessages.messagingUnavailableMessage">This device isn\'t configured to send messages.</string>
+    <!-- Messaging unavailable alert title -->
+    <string name="ErrorMessages.messagingUnavailableTitle">Messaging unavailable</string>
+    <!-- Close app button -->
+    <string name="JailbreakWarnings.close">Close</string>
+    <!-- Ignore jailbreak warning button -->
+    <string name="JailbreakWarnings.ignore">Ignore</string>
+    <!-- Jailbreak warning message -->
+    <string name="JailbreakWarnings.messageWithBalance">DEVICE SECURITY COMPROMISED\n Any \'jailbreak\' app can access any other app\'s
+        keychain data (and steal your litecoins). Wipe this wallet immediately and restore on a secure device.</string>
+    <!-- Jailbreak warning message -->
+    <string name="JailbreakWarnings.messageWithoutBalance">DEVICE SECURITY COMPROMISED\n Any \'jailbreak\' app can access any other
+        app\'s keychain data (and steal your litecoins).</string>
+    <!-- Jailbreak warning title -->
+    <string name="JailbreakWarnings.title">WARNING</string>
+    <!-- Wipe wallet button -->
+    <string name="JailbreakWarnings.wipe">Wipe</string>
+    <!-- Disabled until date -->
+    <string name="LoginScreen.disabled">Disabled until: %1$s</string>
+    <!-- Login Screen header -->
+    <string name="LoginScreen.header">loaf</string>
+    <!-- My Address button title -->
+    <string name="LoginScreen.myAddress">My Address</string>
+    <!-- Scan button title -->
+    <string name="LoginScreen.scan">Scan</string>
+    <!-- Login Screen sub-header -->
+    <string name="LoginScreen.subheader">Enter Pin</string>
+    <!-- TouchID prompt text -->
+    <string name="LoginScreen.touchIdPrompt">Unlock your Loafwallet</string>
+    <!-- Login with TouchID accessibility label -->
+    <string name="LoginScreen.touchIdText">Login With TouchID</string>
+    <!-- Wallet unlocked message -->
+    <string name="LoginScreen.unlocked">Wallet Unlocked</string>
+    <!-- Wallet creation date prefix -->
+    <string name="ManageWallet.creationDatePrefix">You created your wallet on</string>
+    <!-- Manage wallet description text -->
+    <string name="ManageWallet.description">Your wallet name only appears in your account transaction history and cannot be seen by anyone you pay or receive money from.</string>
+    <!-- Change Wallet name textfield label -->
+    <string name="ManageWallet.textFeildLabel">Wallet Name</string>
+    <!-- Manage wallet modal title[ -->
+    <string name="ManageWallet.title">Manage Wallet</string>
+    <!-- Buy litecoin title -->
+    <string name="MenuButton.buy">Buy Litecoin</string>
+    <!-- Menu button title -->
+    <string name="MenuButton.lock">Lock Wallet</string>
+    <!-- Menu button title -->
+    <string name="MenuButton.security">Security Center</string>
+    <!-- Menu button title -->
+    <string name="MenuButton.settings">Settings</string>
+    <!-- Menu button title -->
+    <string name="MenuButton.support">Support</string>
+    <!-- button label -->
+    <string name="MenuViewController.createButton">Create New Wallet</string>
+    <!-- Menu modal title -->
+    <string name="MenuViewController.modalTitle">Menu</string>
+    <!-- button label -->
+    <string name="MenuViewController.recoverButton">Recover Wallet</string>
+    <!-- Set Pin screen body -->
+    <string name="PinCreationView.body">Write down your PIN and store it in a place you can access even if your phone is broken or lost.</string>
+    <!-- Set Pin screen caption -->
+    <string name="PinCreationView.caption">Your PIN will be used to unlock your  Loaf and send money.</string>
+    <!-- Confirm pin instruction -->
+    <string name="PinCreationView.confirmPinText">Re-Enter PIN</string>
+    <!-- Set pin instruction -->
+    <string name="PinCreationView.setPinText">Set PIN</string>
+    <!-- Wrong pin entered instruction -->
+    <string name="PinCreationView.wrongPinText">Wrong PIN , please try again</string>
+    <!-- Push notifications settings view body -->
+    <string name="PushNotifications.body">Get notified when money you’ve received is available for spending.</string>
+    <!-- Push notifications toggle switch label -->
+    <string name="PushNotifications.label">Push Notifications</string>
+    <!-- Push notifications settings view title label -->
+    <string name="PushNotifications.title">Notifications</string>
+    <!-- Address copied message. -->
+    <string name="Receive.copied">Copied to Clipboard.</string>
+    <!-- Share via email button label -->
+    <string name="Receive.emailButton">Email</string>
+    <!-- Request button label -->
+    <string name="Receive.request">Request an Amount</string>
+    <!-- Share button label -->
+    <string name="Receive.share">Share</string>
+    <!-- Share via text message label -->
+    <string name="Receive.textButton">Text Message</string>
+    <!-- Receive modal title -->
+    <string name="Receive.title">Receive</string>
+    <!-- Done buttohn text -->
+    <string name="RecoverWallet.done">Done</string>
+    <!-- Recover wallet header -->
+    <string name="RecoverWallet.header">Recover Wallet</string>
+    <!-- Enter recovery phrase instruction -->
+    <string name="RecoverWallet.instruction">Enter Recovery Phrase</string>
+    <!-- Recover wallet intro -->
+    <string name="RecoverWallet.intro">Recover your Loafwallet with your recovery phrase.</string>
+    <!-- Invalid phrase message -->
+    <string name="RecoverWallet.invalid">The phrase you entered is invalid. Please double-check each word and try again.</string>
+    <!-- Previous button accessibility label -->
+    <string name="RecoverWallet.leftArrow">Left Arrow</string>
+    <!-- Next button label -->
+    <string name="RecoverWallet.next">Next</string>
+    <!-- Next button accessibility label -->
+    <string name="RecoverWallet.rightArrow">Right Arrow</string>
+    <!-- Recover wallet sub-header -->
+    <string name="RecoverWallet.subheader">Enter the recovery phrase associated with the wallet you want to recover.</string>
+    <!-- No comment provided. -->
+    <string name="RequestAnAmoutn.title">Request an Amount</string>
+    <!-- Alert action button label -->
+    <string name="ReScan.alertAction">Sync</string>
+    <!-- Alert message body -->
+    <string name="ReScan.alertMessage">You will not be able to send money while syncing.</string>
+    <!-- Alert message title -->
+    <string name="ReScan.alertTitle">Sync with Blockchain?</string>
+    <!-- extimated time -->
+    <string name="ReScan.body1">5-30 minutes</string>
+    <!-- Syncing explanation -->
+    <string name="ReScan.body2">If a transaction is taking much longer than its estimated time to complete.</string>
+    <!-- Syncing explanation -->
+    <string name="ReScan.body3">If you believe a transaction is missing from your account history.</string>
+    <!-- Start Sync button label -->
+    <string name="ReScan.buttonTitle">Start Sync</string>
+    <!-- Sync blockchain view footer -->
+    <string name="ReScan.footer">You will not be able to send money while syncing with the blockchain.</string>
+    <!-- Sync Blockchain view header -->
+    <string name="ReScan.header">Sync Blockchain</string>
+    <!-- Subheader label -->
+    <string name="ReScan.subheader1">Estimated time</string>
+    <!-- Subheader label -->
+    <string name="ReScan.subheader2">When to Sync?</string>
+    <!-- Scan litecoin address camera flash toggle -->
+    <string name="Scanner.flashButtonLabel">Camera Flash</string>
+    <!-- Security Center Info -->
+    <string name="SecurityCenter.info">Loafwallet provides security features for protecting your money. Click each feature below to learn more.</string>
+    <!-- Paper Key cell description -->
+    <string name="SecurityCenter.paperKeyDescription">Restores your Loaf on new devices and after software updates.</string>
+    <!-- Paper Key cell title -->
+    <string name="SecurityCenter.paperKeyTitle">Paper Key</string>
+    <!-- Pin cell description -->
+    <string name="SecurityCenter.pinDescription">Unlocks your Loaf, authorizes send money.</string>
+    <!-- Pin cell title -->
+    <string name="SecurityCenter.pinTitle">6-Digit PIN</string>
+    <!-- Security Center Title -->
+    <string name="SecurityCenter.title">Security Center</string>
+    <!-- Touch ID cell description -->
+    <string name="SecurityCenter.touchIdDescription">Unlocks your Loaf, authorizes send money to set limit.</string>
+    <!-- Touch ID cell title -->
+    <string name="SecurityCenter.touchIdTitle">Touch ID</string>
+    <!-- Send money amount label -->
+    <string name="Send.amountLabel">Amount</string>
+    <!-- Camera not allowed message -->
+    <string name="Send.cameraunavailableMessage">Go to Settings to Allow camera access.</string>
+    <!-- Camera not allowed alert title -->
+    <string name="Send.cameraUnavailableTitle">Loaf is not allowed to access the camera</string>
+    <!-- Currency Button label -->
+    <string name="Send.defaultCurrencyLabel">LTC (\(S.Symbols.bits))</string>
+    <!-- Description for sending money label -->
+    <string name="Send.descriptionLabel">What\'s this for?</string>
+    <!-- Invalid address alert message -->
+    <string name="Send.invalidAddressTitle">Your clipboard does not have a valid litecoin address.</string>
+    <!-- Send modal title -->
+    <string name="Send.modalTitle">Send Money</string>
+    <!-- Paste button label -->
+    <string name="Send.pasteLabel">Paste</string>
+    <!-- Scan button label -->
+    <string name="Send.scanLabel">Scan</string>
+    <!-- Send button label -->
+    <string name="Send.sendLabel">Send</string>
+    <!-- Send money to label -->
+    <string name="Send.toLabel">To</string>
+    <!-- About label -->
+    <string name="Settings.about">About</string>
+    <!-- Default currency label -->
+    <string name="Settings.currency">Default Currency</string>
+    <!-- Join Early access label -->
+    <string name="Settings.earlyAccess">Join Early Access</string>
+    <!-- Import wallet label -->
+    <string name="Settings.importTitle">Import Wallet</string>
+    <!-- Notifications label -->
+    <string name="Settings.notifications">Notifications</string>
+    <!-- Share anonymous data label -->
+    <string name="Settings.shareData">Share Anonymous Data</string>
+    <!-- Sync blockchain label -->
+    <string name="Settings.sync">Sync Blockchain</string>
+    <!-- Settings title -->
+    <string name="Settings.title">Settings</string>
+    <!-- Touch ID spending limit label -->
+    <string name="Settings.touchIdLimit">Touch ID Spending Limit</string>
+    <!-- Share data view body -->
+    <string name="ShareData.body">Help improve Loaf by sharing your annoymous data with us. This does not include any financial information. We respect your financial privacy.</string>
+    <!-- Share data header -->
+    <string name="ShareData.header">Share Data?</string>
+    <!-- Share data switch label. -->
+    <string name="ShareData.toggleLabel">Share Anonymous Data?</string>
+    <!-- button label -->
+    <string name="StartPaperPhrase.againButtonTitle">Write Down Paper Key Again</string>
+    <!-- Paper key explanation text. -->
+    <string name="StartPaperPhrase.body">Protect your wallet against theft and ensure you can recover your wallet after replacing your phone or updating its software.</string>
+    <!-- button label -->
+    <string name="StartPaperPhrase.buttonTitle">Write Down Paper Key</string>
+    <!-- Argument is date -->
+    <string name="StartPaperPhrase.date">You last wrote down your paper key on %1$s</string>
+    <!-- Syncing view header text -->
+    <string name="SyncingView.header">Syncing</string>
+    <!-- Retry button label -->
+    <string name="SyncingView.retry">Retry</string>
+    <!-- Touch Id screen label -->
+    <string name="TouchIdSettings.label">Login to your Loaf wallet and send money using just your finger print to a set limit.</string>
+    <!-- Touch id switch label. -->
+    <string name="TouchIdSettings.switchLabel">Enable Touch ID for Loaf</string>
+    <!-- Touch ID settings view title -->
+    <string name="TouchIdSettings.title">Touch ID</string>
+    <!-- Touch ID unavailable alert message -->
+    <string name="TouchIdSettings.unavailableAlertMessage">You have not setup Touch ID on this device. Go to Settings-&gt;Touch ID &amp; Passcode to set it up now.</string>
+    <!-- Touch ID unavailable alert title -->
+    <string name="TouchIdSettings.unavailableAlertTitle">Touch ID Not Setup</string>
+    <!-- Touch ID spending limit screen body -->
+    <string name="TouchIdSpendingLimit.body">You will be asked to enter you 6-Digit PIN for any send transaction over your Spending Limit, and every 48 hours since the last time you entered your 6-Digit PIN.</string>
+    <!-- Touch Id spending limit screen title -->
+    <string name="TouchIdSpendingLimit.title">Touch ID Limit</string>
+    <!-- Transaction complete label -->
+    <string name="Transaction.complete">Complete</string>
+    <!-- Invalid transaction -->
+    <string name="Transaction.invalid">INVALID</string>
+    <!-- Timestamp label for event that just happened -->
+    <string name="Transaction.justNow">just now</string>
+    <!-- Waiting to be confirmed string -->
+    <string name="Transaction.waiting">Waiting to be confirmed. Some merchants require confirmation to complete a transaction. Estimated time: 1-2 hours.</string>
+    <!-- Will read 'for and address' or 'to and address' -->
+    <string name="TransactionDetails.addressFormat">%1$s an address</string>
+    <!-- Amount section header -->
+    <string name="TransactionDetails.amountHeader">Amount</string>
+    <!-- Comment section header -->
+    <string name="TransactionDetails.commentsHeader">Comments</string>
+    <!-- Empty transaction list message. -->
+    <string name="TransactionDetails.emptyMessage">Your transactions will appear here.</string>
+    <!-- More button title -->
+    <string name="TransactionDetails.more">More...</string>
+    <!-- Status section header -->
+    <string name="TransactionDetails.statusHeader">Status</string>
+    <!-- Transaction Details Title -->
+    <string name="TransactionDetails.title">Transaction Details</string>
+    <!-- Transaction hash header -->
+    <string name="TransactionDetails.txHashHeader">Transaction Hash</string>
+    <!-- No comment provided. -->
+    <string name="TransactionDirection.address">Address</string>
+    <!-- Usage: received transaction from -->
+    <string name="TransactionDirection.from">from</string>
+    <!-- Usage: received transaction -->
+    <string name="TransactionDirection.received">received</string>
+    <!-- Usage: sent transaction -->
+    <string name="TransactionDirection.sent">sent</string>
+    <!-- Usage: sent transaction to -->
+    <string name="TransactionDirection.to">to</string>
+    <!-- Update pin caption text -->
+    <string name="UpdatePin.caption">Write down your PIN and store it in a place you can access even if your phone is broken or lost.</string>
+    <!-- Pin creation info. -->
+    <string name="UpdatePin.createInstruction">Your PIN will be used to unlock your Loaf and send money.</string>
+    <!-- Update Pin title -->
+    <string name="UpdatePin.createTitle">Set PIN</string>
+    <!-- Update Pin title -->
+    <string name="UpdatePin.createTitleConfirm">Re-Enter PIN</string>
+    <!-- Enter current pin instruction -->
+    <string name="UpdatePin.enterCurrent">Enter your current PIN.</string>
+    <!-- Enter new pin instruction -->
+    <string name="UpdatePin.enterNew">Enter your new PIN.</string>
+    <!-- Re-Enter new pin instruction -->
+    <string name="UpdatePin.reEnterNew">Re-Enter your new PIN</string>
+    <!-- Update pin failure error message. -->
+    <string name="UpdatePin.setPinError">Sorry, could not update pin.</string>
+    <!-- Update pin failure alert view title -->
+    <string name="UpdatePin.setPinErrorTitle">Set Pin Error</string>
+    <!-- Update Pin title -->
+    <string name="UpdatePin.updateTitle">Update PIN</string>
+    <!-- Verify pin view body -->
+    <string name="VerifyPin.body">Please enter your PIN to authorize this transaction.</string>
+    <!-- Verify Pin view title -->
+    <string name="VerifyPin.title">PIN Required</string>
+    <!-- No comment provided. -->
+    <string name="WritePaperPhrase.instruction">Write down each word on a piece of paper and store it in a safe place.</string>
+    <!-- button label -->
+    <string name="WritePaperPhrase.next">Next</string>
+    <!-- button label -->
+    <string name="WritePaperPhrase.previous">Previous</string>
+    <!-- Eg. 1 of 3 -->
+    <string name="WritePaperPhrase.step">%1$d of %2$d</string>
+
+</resources>
